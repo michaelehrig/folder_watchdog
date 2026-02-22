@@ -8,3 +8,5 @@ In case of an image file it moves all of these into a /images subfolder and furt
 This is a prototype that does not involve any more sophisticated sorting as this would need to be personalized. For myself I added extra conditions like a pdf that contains the name of my bank get put into a subfolder according to that, etc.
 
 This can easily be loaded as a background script and has very little overhead.
+
+It uses the watchdog package to continuously monitor.
